@@ -21,4 +21,4 @@ Because when you do what you love, you don't have to work a day in your life!
 - Git / Github / Github Actions w/ CI/CD
 - Clean Code principles
 
-[linkedin]: https://www.linkedin.com/in/valentinas-tauskela/
+### Contact me on [LinkedIN](https://www.linkedin.com/in/valentinas-tauskela/)
