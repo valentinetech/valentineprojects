@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @valentineprojects
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hey there, I'm Valentinas!
 
-<!---
-valentineprojects/valentineprojects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## I'm an Engineer, rapidly becoming Front End Developer. 
+
+Coding is my passion and I'm looking to make it my carrer. 
+Because when you do what you love, you don't have to work a day in your life!
+
+## Knowledge 
+
+- VSCode
+- HTML w/SEO, Accesibility in mind
+- CSS / SASS / styled-components
+- JavaScript ES7+ Features
+- ReactJs Modern(functional, hooks, TypeScript)
+- Redux
+- TypeScript
+- NodeJs / ExpressJs
+- MongoDB
+- Jest / Cypress / react-testing-library
+- Storybooks 6+
+- Git / Github / Github Actions w/ CI/CD
+- Clean Code principles
+
+[linkedin]: https://www.linkedin.com/in/valentinas-tauskela/
