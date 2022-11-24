@@ -1,24 +1,27 @@
 # Hey there, I'm Valentinas!
 
-## I'm an Engineer, rapidly becoming Front End Developer. 
+## I'm a Front End Developer with experience in React & Angular. 
 
-Coding is my passion and I'm looking to make it my carrer. 
-Because when you do what you love, you don't have to work a day in your life!
+Coding is my passion, I have experience coding huge Angular apllication at work and React application at home.
 
 ## Knowledge 
 
-- VSCode
 - HTML w/SEO, Accesibility in mind
 - CSS / SASS / styled-components
-- JavaScript ES7+ Features
+- JavaScript ES6+ Features
 - ReactJs Modern(functional, hooks, TypeScript)
-- Redux
+- Redux Toolkit
+- RTK Query
+- Angular 15
+- RxJs
+- NgRx
 - TypeScript
 - NodeJs / ExpressJs
 - MongoDB
 - Jest / Cypress / react-testing-library
 - Storybooks 6+
 - Git / Github / Github Actions w/ CI/CD
-- Clean Code principles
+- Agile principles
+- Clean Code & SOLID principles
 
 ### Contact me on [LinkedIN](https://www.linkedin.com/in/valentinas-tauskela/)
